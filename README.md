@@ -10,8 +10,9 @@ Its me Abdul Arfaz
   from B. Barooah College | CGPA: 8.07
 
 *Technical Skills*
-* Frontend: React, JavaScript, HTML5, CSS3
-* Backend & Tools: Node.js, REST APIs, Git, GitHub, Vercel
+* Frontend: React, JavaScript, HTML5, Tailwind CSS, CSS3 , Sonner
+* Backend & API: Node.js, Express, REST APIs, Corn Jobs, Zernio
+* AI & Deployment: Replicate, Vercel, Render, Git, Github
 
 *Contact*
 Email: abdularfaz00@gmail.com
