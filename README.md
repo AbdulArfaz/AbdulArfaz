@@ -1,6 +1,7 @@
 ## Hi there 👋
 Its me Abdul Arfaz
-- Full-stack software developer with a strong academic foundation in computer applications and information technology. Focused on building full stack web appliations and AI-powered SaaS products.
+- Full-stack software developer with a strong academic foundation in computer applications and information technology.
+- Focused on building full stack web appliations and AI-powered SaaS products.
 
 *Education*
 * Master of Computer Applications (MCA) from
