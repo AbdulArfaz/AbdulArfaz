@@ -12,7 +12,7 @@ Its me Abdul Arfaz
 *Technical Skills*
 * Frontend: React, JavaScript, HTML5, Tailwind CSS, CSS3 , Sonner
 * Backend & API: Node.js, Express, REST APIs, Cron Jobs, Zernio
-* AI & RAG: RAG Pipelines, LangChain, pgvector(PostgreSQL), Qdrant, Local Embeddings, Google Gemini API, Replicate,
+* AI & RAG: RAG Pipelines, LangChain, pgvector(PostgreSQL), Qdrant, Embeddings, Google Gemini API, Replicate
 * Deployment & Tools: Vercel, Render, Git, VS Code
 
 *Contact*
