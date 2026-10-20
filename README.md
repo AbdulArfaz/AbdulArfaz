@@ -1,7 +1,7 @@
 ## Hi there 👋
 Its me Abdul Arfaz
 - Full-stack software developer with a strong academic foundation in computer applications and information technology.
-- Focused on building full stack web applications and AI-powered SaaS products.
+- Focused on building full stack web applications and AI-powered SaaS products, and RAG architectures.
 
 *Education*
 * Master of Computer Applications (MCA) from
@@ -12,7 +12,8 @@ Its me Abdul Arfaz
 *Technical Skills*
 * Frontend: React, JavaScript, HTML5, Tailwind CSS, CSS3 , Sonner
 * Backend & API: Node.js, Express, REST APIs, Cron Jobs, Zernio
-* AI & Deployment: Replicate, Vercel, Render
+* AI & RAG: RAG Pipelines, LangChain, pgvector(PostgreSQL), Qdrant, Local Embeddings, Google Gemini API, Replicate,
+* Deployment & Tools: Vercel, Render, Git, VS Code
 
 *Contact*
 Email: abdularfaz00@gmail.com
